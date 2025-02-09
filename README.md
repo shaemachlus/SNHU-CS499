@@ -38,6 +38,18 @@ This enhancement taught me the importance of modularizing code. Specifically, I 
 Enhancement 2: Data Structures and Algorithms
 https://drive.google.com/file/d/10GAQoelHszot03fw6ey5LUNRLsv9CLE5/view?usp=sharing
 
+- Briefly describe the artifact. What is it? When was it created?
+  
+The artifact is a collection of files that use different data structures to hold property auction bids and perform operations on those data structures. Specifically, the data structures are the std::vector, and implementations of a linked list, a hash table, and a binary search tree. These artifacts were developed in CS 300: Data Structures and Algorithms.
+
+
+- Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in algorithms and data structure? How was the artifact improved?
+
+These files are the perfect artifacts to showcase competency with algorithms and data structures because that’s the class from which they were taken. Specifically, I called upon the CR and D operations for each of the data structures. Create, to populate the data structure with entries, Read, to display the entries, and Delete, to delete an entry. The clock ticks associated with each of these operations are counted and displayed. The artifact was improved by incorporating more sorting algorithms for the vector data structure. Specifically, I added the following algorithms: bubble sort, insertion sort, linear sort, binary sort, and jump sort. I included a variety of sorting algorithms because it’s interesting to compare the runtimes. 
+
+
+- Reflect on the process of enhancing and modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+
 I learned that vector sorting, using any method, takes much longer than simple CRUD operations, and there is much greater variety in the runtimes of sorting algorithms than between CRUD operations (for any of the four data structures). This has made me re-evaluate my plan for the database enhancement. Instead of recording each runtime for each function, I will only record the vector sorting algorithms. When the random fluctuations are averaged out, the vector sorting algorithms are the only ones with interesting (varied and non-zero) runtimes. One challenge was the decision of which aspect of the bids to sort (title, ID, fund amount, etc.). After deciding to sort the bids alphabetically instead of by bid ID, I needed to edit the algorithms to make the comparison element a string rather than an integer. This edit was straightforward, but it did require an important decision. I took a cue from the previously written sorting algorithms (selection sort and quick sort), which sort bids alphabetically.
 
 Enhancement 3: Databases
