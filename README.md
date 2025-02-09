@@ -11,13 +11,6 @@ I also enjoyed learning about the software development life cycle and the differ
 
 The artifacts fit together nicely. I used the same code for each enhancement and built upon the previous enhancements each week. The data structure projects linked above was the starting code. In enhancement one, I merged these projects together by creating another menu in the UI that allows the user to select which data structure they'd like to load the data into. All the cpp and header files are now a part of the same project. In enhancement two, I coded additional vector sorting algorithms to demonstrate competency in the data structures and algorithms course goal. I set up a timing system to compare the speeds of different sorting algorithms. In enhancement three, I outputted all data to a tidy csv file that can be plotted in a few clicks on Excel. The resulting bar graph is uploaded with this project.
 
-Discuss how completing your coursework throughout the program and developing the ePortfolio has helped you showcase your strengths, shape your professional goals and values, and prepare to enter or become more employable in the computer science field.
-Use specific examples from your program and include examples outside of the artifacts included in your ePortfolio.
-Address the following topics: collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and database, and security. This section should function as an overall introduction to your skills, not a discussion of the artifacts.
-Summarize and introduce how your artifacts fit together and inform the portfolio as a whole.
-This summary will help demonstrate the full range of your computer science talents and abilities.
-This section should introduce your audience to the technical artifacts that follow the professional self-assessment.
-
 [Code Review](https://drive.google.com/file/d/1iHL3Jb9dDs2tcFdP0pn-wRLrEeSmxqXW/view?usp=sharing)
 
 Original Code, from CS-300, Data Structure & Algorithms: [Vector Sorting](https://drive.google.com/file/d/1FSt-hcQRqSK3kyrp_cjQOgGWW4w7qD49/view?usp=sharing), [Linked List](https://drive.google.com/file/d/1tfSDdhKwkrRjcVvUojB0Ne9h06AbKCUD/view?usp=sharing), [Hash Table](https://drive.google.com/file/d/1AGKFkg5T3YwD6JQZNO1deyPfCw0GFy0r/view?usp=sharing), [Binary Search Tree](https://drive.google.com/file/d/1AXUzupCy6LOb2PKGhsT-nxyRnzkrFBbn/view?usp=sharing)
