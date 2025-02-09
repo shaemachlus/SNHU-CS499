@@ -55,4 +55,15 @@ I learned that vector sorting, using any method, takes much longer than simple C
 Enhancement 3: Databases
 https://drive.google.com/file/d/1nUdGTgM4RWYAxQFtusAVcYXAzn0kczL2/view?usp=sharing
 
-At first, I was very ambitious--I wanted to log all the data to MongoDB with the two attributes of sorting algorithm type and runtime in clock ticks. However, it was very complicated to set up a connection to MongoDB in Visual Studio (unlike MongoDB’s seamless integration in Visual Studio Code). I explored alternate ways to output data. The simplest and most effective route I found was to upload the data to a .csv file and then import that value in Excel where a graph can be easily made. If I were to do this again, I’d make a copy of my project or develop the project in Visual Studio Code where it’s much easier to integrate a MongoDB database. However, I did get the results that I wanted, and it’s very interesting to see how these algorithms compare! Next time, I’d also use a larger data set to see more pronounced differences from the sorting algorithms.
+- Briefly describe the artifact. What is it? When was it created?
+  
+I’m using the Vector.cpp artifact from CS-300, Data Structure and Algorithms. This file defines algorithms for a vector of property auction bids to be sorted along with the CRUD operations. In the previous enhancement, I added more sorting algorithms in Vector.cpp to compare their efficiency using runtime measurements.
+
+- Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?
+
+I selected this item because I was curious about how all of the algorithms compare to each other. I wanted to log data and see it in a graph, instead of just knowing the big O scaling each algorithm has mathematically. The input file of property auction bids was long enough that sorting was a nontrivial task. Last week I improved this artifact by adding 5 new sorting algorithms (bubble sort, insertion sort, linear sort, and jump sort), demonstrating knowledge in software development. I improved this artifact further by outputting data to a CSV that can be opened and quickly graphed in Excel.
+
+- Reflect on the process of enhancing and modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+
+At first, I was very ambitious--I wanted to log all the data to MongoDB with the two attributes of sorting algorithm type and runtime in clock ticks. However, it was very complicated to set up a connection to MongoDB in Visual Studio (unlike MongoDB’s seamless integration in Visual Studio Code). I explored alternate ways to output data. The simplest and most effective route I found was to upload the data to a .csv file and then import that value in Excel where a graph can be easily made. If I were to do this again, I’d make a copy of my project or develop the project in Visual Studio Code where it’s much easier to integrate a MongoDB database. However, I did get the results that I wanted, and it’s very interesting to see how these algorithms compare! Next time, I’d also use a larger data set to see more pronounced differences from the sorting algorithms that aren’t bubble sort. 
+
