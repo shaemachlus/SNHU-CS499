@@ -22,6 +22,16 @@ The original artifact is a collection of files from CS 300 - Data Structures and
 Enhancement 1: Software Engineering
 https://drive.google.com/file/d/1A_mTsuSpbifjIMZnON8fSLgVbwdudgqj/view?usp=sharing
 
+- Briefly describe the artifact. What is it? When was it created?
+
+The original artifact is a collection of files from CS 300 - Data Structures and Algorithms. Specifically, four different data structures--vector, linked list, hash table, and binary search tree--were explored to see their efficiency in performing basic operations on a large database of property bids. I took this class in the summer of 2024.
+
+- Justify the inclusion of the artifact in your portfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?
+
+I like this artifact because it demonstrates competency in solving a problem using different strategies. Data structures are ubiquitous in computer programming, so having mastery of them and knowing how they compare to each other is essential. I am improving this artifact by making it easier to compare the data structures. Instead of running different main functions in different files for each data structure, each data structure and its CRUD operations can be accessed from a single menu in the main function, allowing for side-by-side comparisons of the efficiencies of the data structures for each of the four CRUD operations. In Milestone Four, the results will be sent to MongoDB to be recorded in a database.
+
+- Reflect on the process of enhancing and modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+
 This enhancement taught me the importance of modularizing code. Specifically, I found it helpful to make separate header files for code belonging to different data structures. I ended up with 10+ header files with their corresponding cpp files, including header files for classes, header files for functions for specific classes, and header files for general functions. Although this may have been overkill, I know where each function goes, and when I develop more functions for specific classes in Milestone Three, I know exactly where to put them. I kept running into the issue of multiple files including identical functions. By allowing myself to make many header files and associated cpp files as desired, I could achieve the organization necessary to make function inclusion intuitive. It’s better to over-organize than under-organize, especially when more additions will be made to a project.
 
 
