@@ -1,14 +1,26 @@
 # SNHU-CS499
-Computer Science Capstone
+Computer Science Capstone Project
 
-Professional Self-Assessment:
+Professional Self-Assessment: 
 
+My favorite aspect of the CS degree at SNHU is the variety of topics I was exposed to: QA testing, database management, mobile app development, and full stack development, to name a few. Each course came with a final project to display on my GitHub account, allowing me to showcase my strengths to employers and recruiters. This gives me a better chance at a job in the field, specifically at an IT Helpdesk, which is my goal. 
+
+During my time at SNHU, I had the chance to collaborate with others through discussion boards. We would help each other out on the general questions board by posting our own questions and responding to our peers' questions, helping debug each other's code and solving other technical problems. One of my favorite courses was CS-300 Data Structures and Algorithms. I may have put the most work into this course because data structure and algorithm questions are ubiquitous in interviews. 
+
+I also enjoyed learning about the software development life cycle and the different types of workflows (agile, TDD, waterfall) that exist in the industry. There was plenty of engineering experience, too, in classes covering client-server development, mobile app development, and full-stack development, to name a few. Using SQL to handle data in databases was also a great learning experience because of the importance of big data and cloud storage in many industries. The course on software security was a great introduction to cybersecurity. Privacy on the internet is increasingly essential since everything happens online these days.
+
+The artifacts fit together nicely. I used the same code for each enhancement and built upon the previous enhancements each week. The data structure projects linked above was the starting code. In enhancement one, I merged these projects together by creating another menu in the UI that allows the user to select which data structure they'd like to load the data into. All the cpp and header files are now a part of the same project. In enhancement two, I coded additional vector sorting algorithms to demonstrate competency in the data structures and algorithms course goal. I set up a timing system to compare the speeds of different sorting algorithms. In enhancement three, I outputted all data to a tidy csv file that can be plotted in a few clicks on Excel. The resulting bar graph is uploaded with this project.
+
+Discuss how completing your coursework throughout the program and developing the ePortfolio has helped you showcase your strengths, shape your professional goals and values, and prepare to enter or become more employable in the computer science field.
+Use specific examples from your program and include examples outside of the artifacts included in your ePortfolio.
+Address the following topics: collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and database, and security. This section should function as an overall introduction to your skills, not a discussion of the artifacts.
+Summarize and introduce how your artifacts fit together and inform the portfolio as a whole.
+This summary will help demonstrate the full range of your computer science talents and abilities.
+This section should introduce your audience to the technical artifacts that follow the professional self-assessment.
 
 [Code Review](https://drive.google.com/file/d/1iHL3Jb9dDs2tcFdP0pn-wRLrEeSmxqXW/view?usp=sharing)
 
 Original Code, from CS-300, Data Structure & Algorithms: [Vector Sorting](https://drive.google.com/file/d/1FSt-hcQRqSK3kyrp_cjQOgGWW4w7qD49/view?usp=sharing), [Linked List](https://drive.google.com/file/d/1tfSDdhKwkrRjcVvUojB0Ne9h06AbKCUD/view?usp=sharing), [Hash Table](https://drive.google.com/file/d/1AGKFkg5T3YwD6JQZNO1deyPfCw0GFy0r/view?usp=sharing), [Binary Search Tree](https://drive.google.com/file/d/1AXUzupCy6LOb2PKGhsT-nxyRnzkrFBbn/view?usp=sharing)
-
-The original artifact is a collection of files from CS 300 - Data Structures and Algorithms. Specifically, four different data structures--vector, linked list, hash table, and binary search tree--were explored to see their efficiency in performing basic operations on a large database of property bids. I took this class in the summer of 2024. I like this artifact because it demonstrates competency in solving a problem using different strategies. Data structures are ubiquitous in computer programming, so having mastery of them and knowing how they compare to each other is essential. I am improving this artifact by making it easier to compare the data structures. Instead of running different main functions in different files for each data structure, each data structure and its CRUD operations can be accessed from a single menu in the main function, allowing for side-by-side comparisons of the efficiencies of the data structures for each of the four CRUD operations and the vector sorting algorithms.
 
 [Enhancement 1: Software Engineering](https://drive.google.com/file/d/1A_mTsuSpbifjIMZnON8fSLgVbwdudgqj/view?usp=sharing)
 
@@ -18,7 +30,7 @@ The original artifact is a collection of files from CS 300 - Data Structures and
 
 - Justify the inclusion of the artifact in your portfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in software development? How was the artifact improved?
 
-I like this artifact because it demonstrates competency in solving a problem using different strategies. Data structures are ubiquitous in computer programming, so having mastery of them and knowing how they compare to each other is essential. I am improving this artifact by making it easier to compare the data structures. Instead of running different main functions in different files for each data structure, each data structure and its CRUD operations can be accessed from a single menu in the main function, allowing for side-by-side comparisons of the efficiencies of the data structures for each of the four CRUD operations. In Milestone Four, the results will be sent to MongoDB to be recorded in a database.
+I like this artifact because it demonstrates competency in solving a problem using different strategies. Data structures are ubiquitous in computer programming, so having mastery of them and knowing how they compare to each other is essential. I am improving this artifact by making it easier to compare the data structures. Instead of running different main functions in different files for each data structure, each data structure and its CRUD operations can be accessed from a single menu in the main function, allowing for side-by-side comparisons of the efficiencies of the data structures for each of the four CRUD operations and the vector sorting algorithms. 
 
 - Reflect on the process of enhancing and modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
 
